@@ -1,9 +1,7 @@
 
 
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+my-react-php-app/client/node_modules
 
 # testing
 /coverage
