@@ -1,0 +1,10 @@
+{
+    "name": "dan4eck/rk_php",
+    "description": "A simple PHP backend for my React application.",
+    "minimum-stability": "stable",
+    "require": {
+        "slim/slim": "^4.0",
+        "vlucas/phpdotenv": "^5.5",
+        "slim/psr7": "^1.6"
+    }
+}
